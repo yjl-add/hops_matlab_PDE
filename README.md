@@ -1,9 +1,13 @@
-![Uploading F1.gif…]()
+![PDE2D_](https://user-images.githubusercontent.com/90375075/138580115-b69cb1f3-5955-45ea-b0a7-55648d1fa6bf.gif)
 
 # Hops Matlab PDE - WIP
-Bridge between Matlab PDE to Grasshopper using hops
+Bridge Matlab PDE to Grasshopper using hops
 
-Use Matlab's PDE Toolbox in the grasshopper interface.
+Use Matlab's PDE Toolbox in the grasshopper interface to simulate thermal conduction
+
+[Matlab PDE Toolbox](https://www.mathworks.com/products/pde.html)
+[Matlab Python Engine](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
+[Hops CPython](https://github.com/mcneel/compute.rhino3d/tree/master/src/ghhops-server-py)
 
 Requirements (* Not Essential)
 
